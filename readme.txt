@@ -1,1 +1,1 @@
-markdown ppt链接：https://gitpitch.com/cainiaocome/nets_plan
+markdown ppt链接：https://github.com/cainiaocome/nets_plan/blob/master/PITCHME.md
