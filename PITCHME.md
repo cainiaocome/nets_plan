@@ -38,4 +38,4 @@
 ## 历史
 
 * 利用该项目发现过新浪，网易等互联网一线厂商漏洞，以万计的其他各种类型网站漏洞，并上报到cnvd等国家安全管理中心，为国家网络安全做出了我们的贡献
-* demo数据展示: [跨域名请求](https://github.com/cainiaocome/nets_plan/blob/master/g.svg)
+* demo数据展示: [跨域名请求](https://github.com/cainiaocome/nets_plan/blob/master/crosshostnamecall.svg) [ip到hostname](https://github.com/cainiaocome/nets_plan/blob/master/ip2hostname.svg) [接口树](https://github.com/cainiaocome/nets_plan/blob/master/path.svg)
